@@ -1,0 +1,21 @@
+# Compiled Java
+*.class
+
+# Build folders
+/target/
+/bin/
+
+# IDE files
+*.iml
+/.idea/
+/.vscode/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Database credentials
+config.properties
+
+# Logs
+*.log
