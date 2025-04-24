@@ -1,6 +1,6 @@
 # MCEMS – Media and Consultancy Employee Management System
 
-A Java Swing + MySQL employee management app for ASU coursework.
+A Java Swing + MySQL employee management 
 
 ## 🚀 Getting Started
 
